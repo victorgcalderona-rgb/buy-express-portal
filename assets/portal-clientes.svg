@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740" role="img" aria-labelledby="title desc">
+<title id="title">Portal de clientes — ejemplo ficticio</title><desc id="desc">Una cliente de demostración consulta dos paquetes, ocho libras y veinte dólares. Todos los datos son ficticios.</desc>
+<rect width="1200" height="740" fill="#12294f"/>
+<g font-family="Arial, sans-serif">
+<text x="54" y="62" fill="#fff" font-size="23" font-weight="700">BUY EXPRESS PANAMÁ</text>
+<text x="54" y="91" fill="#b5c8e7" font-size="17">Mi casillero · Ilustración de portafolio</text>
+<rect x="912" y="38" width="236" height="44" rx="22" fill="#fef0aa"/>
+<text x="1030" y="66" text-anchor="middle" fill="#172c4e" font-size="16" font-weight="700">DATOS FICTICIOS</text>
+<path d="M54 120H1146" stroke="#48618a"/>
+<text x="54" y="174" fill="#8cbcff" font-size="17" font-weight="700">BEP-DEMO-01</text>
+<text x="54" y="226" fill="#fff" font-size="42">Hola, Ana Ejemplo</text>
+<text x="54" y="262" fill="#d7e5fb" font-size="22">Consulta tus paquetes disponibles en un solo lugar.</text>
+<g fill="#1d3f73" stroke="#617ea6"><rect x="54" y="294" width="348" height="118" rx="18"/><rect x="426" y="294" width="348" height="118" rx="18"/><rect x="798" y="294" width="348" height="118" rx="18"/></g>
+<g fill="#c4d7f1" font-size="18"><text x="76" y="329">Paquetes disponibles</text><text x="448" y="329">Peso total</text><text x="820" y="329">Total por pagar</text></g>
+<g fill="#fff" font-size="38" font-weight="700"><text x="76" y="383">2</text><text x="448" y="383">8 lb</text><text x="820" y="383">USD 20.00</text></g>
+<rect x="54" y="438" width="1092" height="210" rx="20" fill="#f8faff"/>
+<g fill="#63758f" font-size="16"><text x="80" y="480">TRACKING DE EJEMPLO</text><text x="743" y="480">PESO</text><text x="934" y="480">IMPORTE</text></g>
+<g fill="#173458" font-size="23" font-weight="700"><text x="80" y="526">DEMO-PAQUETE-001</text><text x="743" y="526">3 lb</text><text x="934" y="526">USD 7.50</text></g>
+<path d="M80 548H1120" stroke="#d9e2ef"/>
+<g fill="#173458" font-size="23" font-weight="700"><text x="80" y="593">DEMO-PAQUETE-002</text><text x="743" y="593">5 lb</text><text x="934" y="593">USD 12.50</text></g>
+<text x="54" y="701" fill="#c4d7f1" font-size="17">Recreación ilustrativa. No es una captura de producción ni una cuenta real.</text>
+</g></svg>
