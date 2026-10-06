@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="830" viewBox="0 0 1200 830" role="img" aria-labelledby="title desc">
+<title id="title">Inventario real — ejemplo ficticio</title><desc id="desc">Inventario ilustrativo de tres paquetes agrupados en dos clientes ficticios, con filtros de antigüedad y un importe total de treinta dólares.</desc>
+<rect width="1200" height="830" fill="#1c438b"/>
+<g font-family="Arial, sans-serif">
+<text x="54" y="59" fill="#b9d6ff" font-size="17" font-weight="700">PANEL ADMINISTRATIVO · ILUSTRACIÓN</text>
+<text x="54" y="117" fill="#fff" font-size="48">Inventario real</text>
+<text x="54" y="154" fill="#dbe8ff" font-size="21">Paquetes disponibles, organizados por cliente.</text>
+<g fill="#112d5c"><rect x="54" y="180" width="348" height="100" rx="18"/><rect x="426" y="180" width="348" height="100" rx="18"/><rect x="798" y="180" width="348" height="100" rx="18"/></g>
+<g fill="#bbd1f2" font-size="17"><text x="76" y="212">Disponibles ahora</text><text x="448" y="212">Clientes con paquetes</text><text x="820" y="212">Monto total</text></g>
+<g fill="#fff" font-size="34" font-weight="700"><text x="76" y="257">3</text><text x="448" y="257">2</text><text x="820" y="257">USD 30.00</text></g>
+<rect x="54" y="304" width="1092" height="90" rx="18" fill="#f8faff"/><text x="76" y="336" fill="#18365e" font-size="17" font-weight="700">Filtrar por cliente o tracking</text><text x="76" y="370" fill="#6b7b94" font-size="20">Ejemplo: Ana o DEMO-PAQUETE</text>
+<rect x="54" y="414" width="245" height="49" rx="24" fill="#fff"/><rect x="322" y="414" width="245" height="49" rx="24" fill="#fff0a5"/><rect x="590" y="414" width="245" height="49" rx="24" fill="#ffca78"/><rect x="858" y="414" width="288" height="49" rx="24" fill="#f5a1a5"/>
+<g fill="#163454" text-anchor="middle" font-size="19" font-weight="700"><text x="176" y="446">0–6 días</text><text x="444" y="446">7–9 días</text><text x="712" y="446">10–14 días</text><text x="1002" y="446">15 días o más</text></g>
+<rect x="54" y="487" width="1092" height="162" rx="18" fill="#f8faff"/><text x="78" y="524" fill="#173458" font-size="23" font-weight="700">Ana Ejemplo</text><text x="916" y="524" fill="#173458" font-size="18">2 paquetes · USD 20.00</text>
+<g fill="#18365e" font-size="20"><text x="78" y="569">DEMO-PAQUETE-001 · 3 días</text><text x="943" y="569">USD 7.50</text></g>
+<rect x="68" y="585" width="1064" height="50" rx="10" fill="#fff0a5"/><g fill="#18365e" font-size="20"><text x="78" y="618">DEMO-PAQUETE-002 · 8 días</text><text x="943" y="618">USD 12.50</text></g>
+<rect x="54" y="670" width="1092" height="112" rx="18" fill="#f8faff"/><text x="78" y="705" fill="#173458" font-size="23" font-weight="700">Luis Demo</text><text x="916" y="705" fill="#173458" font-size="18">1 paquete · USD 10.00</text>
+<rect x="68" y="719" width="1064" height="50" rx="10" fill="#f5a1a5"/><g fill="#18365e" font-size="20"><text x="78" y="752">DEMO-PAQUETE-003 · 16 días</text><text x="943" y="752">USD 10.00</text></g>
+<text x="54" y="811" fill="#dbe8ff" font-size="16">Datos ficticios. Esta imagen no representa el inventario actual de la empresa.</text>
+</g></svg>
