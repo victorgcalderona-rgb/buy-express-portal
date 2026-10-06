@@ -1,0 +1,25 @@
+# Este repositorio es solo un caso de estudio, no una copia de producción.
+node_modules/
+dist/
+.env
+.env.*
+*.mdb
+*.accdb
+*.sqlite
+*.sqlite3
+*.db
+*.pem
+*.key
+*.p12
+*.pfx
+*.json
+*.zip
+*.tar
+*.gz
+config.*
+inputs/
+.wrangler/
+.openai/
+.last-sync*
+.last-clients*
+.real-inventory*
