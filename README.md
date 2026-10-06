@@ -2,7 +2,7 @@
 
 Caso de estudio de una plataforma web para consultar paquetes y apoyar la operación de una empresa de casilleros y logística en Panamá.
 
-**Autor del caso de estudio:** [Víctor Calderón](https://github.com/victorgcalderona-rgb)  
+**Creador e impulsor del portal y autor del caso de estudio:** [Víctor Calderón](https://github.com/victorgcalderona-rgb)  
 **Tipo de proyecto:** solución aplicada a una operación real, desarrollada con apoyo de inteligencia artificial.  
 **Alcance de este repositorio:** documentación e imágenes ilustrativas; no contiene el código del sistema de producción ni información de clientes.
 
@@ -57,11 +57,13 @@ Un proceso de sincronización conecta los datos operativos de Access con el port
 
 No se incluye en este repositorio la configuración de despliegue, la base de datos ni las credenciales de integración.
 
-## Mi participación y uso de IA
+## Creador del proyecto: de la necesidad a la solución
 
-Mi trabajo se centró en identificar necesidades reales de la empresa, definir los flujos, probarlos con casos operativos y solicitar mejoras a partir de los resultados. Utilicé herramientas de IA como apoyo para implementar, revisar y ajustar la solución.
+Ideé y creé este portal al identificar la necesidad de los clientes de consultar sus paquetes de forma sencilla y mejorar su interacción con la empresa.
 
-El proyecto muestra mi capacidad para traducir problemas de negocio en funcionalidades, coordinar una implementación asistida por IA y validar su utilidad en el trabajo diario. No se presenta como una implementación escrita íntegramente sin asistencia.
+Transformé esa necesidad en una solución digital: definí las funcionalidades, los flujos de uso y la experiencia del cliente, y dirigí su implementación con apoyo de herramientas de inteligencia artificial. Realicé pruebas con casos reales y ajustes para facilitar su uso en computadoras y teléfonos móviles.
+
+La idea, la iniciativa y la dirección del proyecto fueron mías. La IA fue una herramienta de apoyo para implementar, revisar y ajustar la solución; no se presenta como una implementación escrita íntegramente sin asistencia.
 
 ## Aprendizajes
 
